@@ -1,10 +1,9 @@
 {
-  "name": "Discord-js-v14-template-for-glitch",
-  "version": "14",
-  "description": "It is template of Discord.js v14.",
-  "main": "server.js",
+  "name": "discord-readme-bot",
   "scripts": {
-    "start": "node server.js"
+    "start": "tsx src/index.ts",
+    "build": "tsc",
+    "dev": "tsx watch src/index.ts"
   },
   "dependencies": {
     "discord.js": "^14.14.1",
