@@ -16,14 +16,5 @@
   },
   "engines": {
     "node": "16.14.0"
-  },
-  "repository": {
-    "url": "https://glitch.com/edit/#!/discord-js-v14-template-glitch"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "template"
-  ]
+  }
 }
